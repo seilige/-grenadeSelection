@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\c++\Новая папка\sound\sound\main.cpp(88,1): warning C4715: SoftwareMainProcedure: значение возвращается не при всех путях выполнения
+  sound.vcxproj -> C:\c++\Новая папка\sound\x64\Debug\sound.exe
